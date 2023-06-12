@@ -1,2 +1,2 @@
 # prototypeforloginpage
-prototype for login page
+prototype for login page in html
